@@ -1,31 +1,51 @@
-# Frontend Mentor - Fylo landing page with dark theme and features grid
+# Fylo Landing Page with Dark Theme
 
-![Design preview for the Fylo landing page with dark theme and features grid challenge](./design/desktop-preview.jpg)
+A responsive landing page built using **HTML and CSS**, featuring a dark theme and a structured features grid. This project focuses on clean UI/UX design, responsiveness, and modern front-end development techniques.
 
-## Welcome! 👋
+## Features
+- Dark theme for an elegant and modern look
+- Fully responsive design for mobile and desktop views
+- Features grid layout for showcasing content
+- Optimized assets for fast loading
+- Organized file structure for easy maintenance
 
-Thanks you for checking out my solution for this front-end coding challenge.
+## Getting Started
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
+### **1. Clone the Project**
 
-**To do this challenge you need a basic understanding of HTML and CSS.**
+```bash
+git clone <your-repository-link>
+cd fylo-landing-page
+```
 
-## Where to find everything
+### **2. Open the Project**
+Simply open the `index.html` file in your preferred browser to preview the landing page.
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design to work to.
+### **3. Customize the Styles**
+Modify the CSS files inside the `styles/` folder to tweak colors, fonts, or layouts according to your preferences.
 
-The designs are in JPG static format. This will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. This should help train your eye to perceive differences in spacings and sizes.
+## Project Structure
+```
+/fylo-landing-page
+│── /design         # Design reference images
+│── /images         # Optimized assets
+│── /styles         # CSS stylesheets
+│── .gitignore      # Git ignore configuration
+│── desktop-design.jpg # Desktop design preview
+│── index.html      # Main HTML file
+│── README.md       # Project documentation
+│── style-guide.md  # Color palette and typography details
+```
 
-If you would like the Sketch file in order to see sizes etc, it is available to download from the challenge page.
+## Deployment
+To host the project online, use platforms like:
+- **Netlify**
+- **GitHub Pages**
+- **Vercel**
 
-You will find all the required assets in the `/images` folder. The assets are already optimized.
+## License
+This project is free to use and modify.
 
-There is also a `style-guide.md` file, which contains the information you'll need, such as color palette and fonts.
+---
 
-## Deployed Solution
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6ad40414-dafe-4278-8e14-3e7829da9978/deploy-status)](https://app.netlify.com/sites/laughing-easley-23c276/deploys)
-
-Preview Here: https://laughing-easley-23c276.netlify.app/
-
-**Have fun building!** 🚀
+Enjoy coding and improving your front-end skills! 🚀
